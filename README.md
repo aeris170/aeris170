@@ -1,5 +1,3 @@
-<link href="styles.css" rel="stylesheet"></link>
-
 <!--
 **aeris170/aeris170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,19 +57,19 @@ I'm working as an independent Game Developer. 🎮
 ## - 🧠 I Know / Use
 ### Programming Languages:
 
-<img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/lua/lua.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/lua/lua.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32" style="margin:2px" />
 
 ### APIs:
 
-<img src="https://github.com/github/explore/blob/master/topics/opengl/opengl.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/qt/qt.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/opengl/opengl.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/qt/qt.png?raw=true" height="32" style="margin:2px" />
 
 ### Tools:
 
-<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/unity/unity.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/maven/maven.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/unity/unity.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/maven/maven.png?raw=true" height="32" style="margin:2px" />
 
 ## - 🤓 I’m currently learning
 
-<img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" /><img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" /><img src="https://github.com/github/explore/blob/master/topics/unreal-engine/unreal-engine.png?raw=true" height="32" />
+<img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" style="margin:2px" /><img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/unreal-engine/unreal-engine.png?raw=true" height="32" style="margin:2px" />
 
 ## - 💬 Ask me about
 
