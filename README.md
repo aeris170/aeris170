@@ -1,3 +1,5 @@
+<link href="styles.css" rel="stylesheet"></link>
+
 <!--
 **aeris170/aeris170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -193,35 +195,3 @@ I'd like to get in touch with the following topics:
 You can e-mail me directly, get in touch through the account(s) below!
 
 [![Linkedin Badge](https://img.shields.io/badge/dogaoruc-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/do%C4%9Fa-oru%C3%A7-973b08155/)
-
-
-<style>
-	img {
-		margin: 2px;
-	}
-	
-	.tooltip {
-	  position: relative;
-	  display: inline-block;
-	}
-
-	.tooltip .tooltiptext {
-	  visibility: hidden;
-	  width: 120px;
-	  background-color: #363D45;
-	  color: #D0D0D5;
-	  text-align: center;
-	  padding: 5px;
-	  border-radius: 6px;
-	 
-	  position: absolute;
-      bottom: 100%;
-	  left: 50%;
-	  margin-left: -60px;
-	  z-index: 1;
-	}
-
-	.tooltip:hover .tooltiptext {
-	  visibility: visible;
-	}
-</style>
