@@ -59,129 +59,34 @@ I'm working as an independent Game Developer. 🎮
 ## - 🧠 I Know / Use
 ### Programming Languages:
 
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  C++
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  C#
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/lua/lua.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  LUA
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  C
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  JAVA
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  JavaScript
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  MATLAB
-  </span>
-</div>
+<img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/lua/lua.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32" />
 
 ### APIs:
 
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/opengl/opengl.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  OpenGL
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  JavaFX
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/qt/qt.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  Qt5
-  </span>
-</div>
+<img src="https://github.com/github/explore/blob/master/topics/opengl/opengl.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/qt/qt.png?raw=true" height="32" />
 
 ### Tools:
 
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  Git
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  GitHub
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/unity/unity.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  Unity
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  Godot
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  GameMaker
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/maven/maven.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  Maven
-  </span>
-</div>
+<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/unity/unity.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/maven/maven.png?raw=true" height="32" />
 
 ## - 🤓 I’m currently learning
 
-<div class="tooltip">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" />
-  <span class="tooltiptext">
-  DirectX
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" />
-  <span class="tooltiptext">
-  Vulkan
-  </span>
-</div>
-<div class="tooltip">
-  <img src="https://github.com/github/explore/blob/master/topics/unreal-engine/unreal-engine.png?raw=true" height="32" />
-  <span class="tooltiptext">
-  Unreal Engine
-  </span>
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" />
+<img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/unreal-engine/unreal-engine.png?raw=true" height="32" />
 
 ## - 💬 Ask me about
 
