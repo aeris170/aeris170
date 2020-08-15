@@ -26,6 +26,7 @@ I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist
 ## - 🕹️ My Job
 
 I'm working as a graphics programmer on a Microsoft Hololens project. 👓
+
 I'm also working as an independent Game Developer ;) 🎮
 
 ## - 🔭 I'm currently working on
