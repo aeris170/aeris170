@@ -71,13 +71,13 @@ I'm also working as an independent Game Developer ;) 🎮
 
 ### Tools:
 
-<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-lightgray?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-godot-black?style=for-the-badge&logo=godot-engine" style="margin:25x" /><img src="http://img.shields.io/badge/-maven-red?style=for-the-badge&logo=apache-maven" style="margin:5px" />
+<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-godot-black?style=for-the-badge&logo=godot-engine" style="margin:25x" /><img src="http://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven" style="margin:5px" />
 
 <img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" style="margin:5px" />
 
 ## - 🤓 I’m currently learning
 
-<img src="http://img.shields.io/badge/-unreal_engine-blueviolet?style=for-the-badge&logo=unreal-engine" style="margin:5px" />
+<img src="http://img.shields.io/badge/-unreal_engine-black?style=for-the-badge&logo=unreal-engine" style="margin:5px" />
 
 <img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" style="margin:5px" /><img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" style="margin:5px" />
 
