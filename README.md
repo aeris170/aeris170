@@ -59,7 +59,7 @@ I'm also working as an independent Game Developer ;) 🎮
 ## - 🧠 I Know / Use
 ### Programming Languages:
 
-<img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/lua/lua.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32" style="margin:2px" />
+<code><img src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" height="32" style="margin:2px" /></code><img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/lua/lua.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32" style="margin:2px" />
 
 ### APIs:
 
@@ -87,4 +87,8 @@ You can e-mail me directly, get in touch through the account(s) below!
 [![Linkedin Badge](https://img.shields.io/badge/dogaoruc-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/do%C4%9Fa-oru%C3%A7-973b08155/)
 
 
-Show some ❤️ by starring some of the repositories!
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
