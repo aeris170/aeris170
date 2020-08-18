@@ -59,7 +59,13 @@ I'm also working as an independent Game Developer ;) 🎮
 ## - 🧠 I Know / Use
 ### Programming Languages:
 
-<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B" style="margin:2px" /><img src="https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logo=c-sharp" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/lua/lua.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32" style="margin:2px" />
+<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B" style="margin:5px" />
+<img src="https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logo=c-sharp" style="margin:5px" />
+<img src="http://img.shields.io/badge/-lua-blue?style=for-the-badge&logo=lua" style="margin:5px" />
+<img src="http://img.shields.io/badge/-c-lightgray?style=for-the-badge&logo=c" style="margin:5px" />
+<img src="http://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java" style="margin:5px" />
+<img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
+<img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" style="margin:5px" />
 
 ### APIs:
 
