@@ -59,19 +59,19 @@ I'm also working as an independent Game Developer ;) 🎮
 ## - 🧠 I Know / Use
 ### Programming Languages:
 
-<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logo=c-sharp" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-blue?style=for-the-badge&logo=lua" style="margin:5px" /><img src="http://img.shields.io/badge/-c-lightgray?style=for-the-badge&logo=c" style="margin:5px" /><img src="http://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" /><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" style="margin:5px" />
+<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logo=c-sharp" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-blue?style=for-the-badge&logo=lua" style="margin:5px" /><img src="http://img.shields.io/badge/-c-lightgray?style=for-the-badge&logo=c" style="margin:5px" /><img src="http://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" /><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32px" style="margin:5px" />
 
 ### APIs:
 
-<img src="https://github.com/github/explore/blob/master/topics/opengl/opengl.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/qt/qt.png?raw=true" height="32" style="margin:2px" />
+<img src="http://img.shields.io/badge/-opengl-black?style=for-the-badge&logo=opengl" style="margin:5px" /><img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" style="margin:5px" /><img src="http://img.shields.io/badge/-qt-lightgray?style=for-the-badge&logo=qt" style="margin:5px" />
 
 ### Tools:
 
-<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/unity/unity.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/godot/godot.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/maven/maven.png?raw=true" height="32" style="margin:2px" />
+<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-lightgray?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-godot-black?style=for-the-badge&logo=godot-engine" style="margin:25x" /><img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" style="margin:5px" /><img src="http://img.shields.io/badge/-maven-red?style=for-the-badge&logo=apache-maven" style="margin:5px" />
 
 ## - 🤓 I’m currently learning
 
-<img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" style="margin:2px" /><img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" style="margin:2px" /><img src="https://github.com/github/explore/blob/master/topics/unreal-engine/unreal-engine.png?raw=true" height="32" style="margin:2px" />
+<img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" style="margin:5px" /><img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" style="margin:5px" /><img src="http://img.shields.io/badge/-unreal_engine-blueviolet?style=for-the-badge&logo=unreal-engine" style="margin:5px" />
 
 ## - 💬 Ask me about
 
