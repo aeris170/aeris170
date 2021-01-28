@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am Doğa Oruç. I am based in İzmir, Turkey.
 
-I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working with challenging projects and having fun while working.
+I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working on challenging projects and having fun while doing so.
 
 <a href="https://github.com/aeris170/repositories">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true&include_all_commits=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
