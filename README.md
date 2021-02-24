@@ -38,9 +38,9 @@ I'm also working as an independent Game Developer ;) 🎮
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th>My Small 2D Game Engine</th>
+    <th>My Small 2D Game Framework</th>
     <th>A RISK tabletop game implementation</th>
-    <th>My Small 2D Game Engine, but in C++</th>
+    <th>My 3D Game Engine, OpenGL/C++</th>
   </tr>
   <tr>
     <td>
