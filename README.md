@@ -55,7 +55,7 @@ I'm also working as an independent Game Developer ;) 🎮
 		</td>
 		<td>
 			<a href="https://github.com/aeris170/DoaEngine">
-				<img src="https://i.hizliresim.com/kcX3Xz.png" />
+				<img src="https://repository-images.githubusercontent.com/169849910/f0d32080-c54e-11e9-80a7-e64a5e78675a" />
 			</a>
 		</td>
 	</tr>
