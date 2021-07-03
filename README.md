@@ -21,10 +21,10 @@ I am Doğa Oruç. I am based in İzmir, Turkey.
 
 I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working on challenging projects and having fun while doing so.
 
-<a href="https://github.com/aeris170/repositories">
+<a href="https://github.com/aeris170?tab=repositories">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true&include_all_commits=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/aeris170/repositories">
+<a href="https://github.com/aeris170?tab=repositories">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeris170&hide=JavaScript,HTML,CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 
