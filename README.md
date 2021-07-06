@@ -89,7 +89,7 @@ I'd like to get in touch with the following topics:
 
 You can e-mail me directly, get in touch through the account(s) below!
 
-[![Linkedin Badge](https://img.shields.io/badge/dogaoruc-let%27s%20connect%21-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/do%C4%9Fa-oru%C3%A7-973b08155/)
+[![Linkedin Badge](https://img.shields.io/badge/dogaoruc-let%27s%20connect%21-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dogaoruc/)
 [![Portfolio Badge](http://img.shields.io/badge/event_horizon-check_out_my_portfolio%21-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aeris170.github.io)
 
 <div align="center">
