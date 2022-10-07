@@ -100,12 +100,6 @@ You can e-mail me directly, get in touch through the account(s) below!
 </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/aeris170?tab=repositories">
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=aeris170&theme=apprentice&margin-w=5&column=-1" />
-</a>
-</div>
-
 <div style="display: flex; flex-direction: row;">
 <a href="https://github.com/aeris170?tab=repositories">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true&include_all_commits=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -113,6 +107,12 @@ You can e-mail me directly, get in touch through the account(s) below!
 
 <a href="https://github.com/aeris170?tab=repositories">
 	<img align="center" src="https://streak-stats.demolab.com?user=aeris170&theme=dark&background=1D1F21" />
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/aeris170?tab=repositories">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=aeris170&theme=apprentice&margin-w=5&column=-1" />
 </a>
 </div>
 <p></p>
