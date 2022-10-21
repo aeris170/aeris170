@@ -63,7 +63,7 @@ I'm also working as an independent Game Developer ;) 🎮
 
 ### APIs:
 
-<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" style="margin:5px" /><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" style="margin:5px" />
+<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" style="margin:5px" /><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" style="margin:5px" /><img src="https://img.shields.io/badge/IMGUI-113154?style=for-the-badge" style="margin:5px" />
 
 ### Tools:
 
