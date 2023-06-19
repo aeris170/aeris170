@@ -102,7 +102,7 @@ You can e-mail me directly, get in touch through the account(s) below!
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
 <a href="https://github.com/aeris170?tab=repositories">
-	<img align="center" src="https://github-readme-stats-aeris170.vercel.app/api?username=aeris170&show_icons=true&include_all_commits=true&include_private=true&line_height=24&theme=transparent" />
+	<img align="center" src="https://github-readme-stats-aeris170.vercel.app/api?username=aeris170&show_icons=true&include_all_commits=true&line_height=24&theme=transparent" />
 </a>
 
 <a href="https://github.com/aeris170?tab=repositories">
