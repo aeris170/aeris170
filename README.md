@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](./github-header-image.png)
 
-# 🙋‍♂️ ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faeris170.aeris170%2Freadme)
+# 🙋‍♂️ ![visitors](https://komarev.com/ghpvc/?username=aeris170&label=visitor)
 
 I am Doğa Oruç. I am based in Ankara, Turkey.
 
