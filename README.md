@@ -25,9 +25,7 @@ I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist
 
 ## - 🕹️ My Job
 
-I'm working as a Rendering Engineer for [4DSight](https://4dsight.com/), a deep video monetization platform. I'm implementing a graphics library for Python using <b>C++/OpenGL</b>. 😮
-
-I'm also working as an independent <b>Game Engine Developer ;)</b> 🎮
+I'm working as an <b>Game Engine Developer ;)</b> 🎮
 
 ## - 🔭 I'm currently working on
 
