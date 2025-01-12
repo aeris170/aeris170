@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 I am Doğa Oruç. I am based in Ankara, Turkey.
 
-I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working on challenging projects and having fun while doing so.
+I'm an enthusiastic Graphics Programmer and a Computer Scientist, focused on working on challenging projects and having fun while doing so.
 
 ## - 🕹️ My Job
 
-I'm working as an <b>Game Engine Developer ;)</b> 🎮
+I'm working as a <b>Game Engine Developer ;)</b> 🎮
 
 ## - 🔭 I'm currently working on
 
