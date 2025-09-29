@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 🙋‍♂️ ![visitors](https://komarev.com/ghpvc/?username=aeris170&label=visitor)
 
-I am Doğa Oruç. I am based in Ankara, Turkey.
+I am Doğa Oruç. I am based in Cork, Ireland.
 
 I'm an enthusiastic Graphics Programmer and a Computer Scientist, focused on working on challenging projects and having fun while doing so.
 
